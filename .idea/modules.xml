@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java_study.iml" filepath="$PROJECT_DIR$/java_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_study_leetcode-csp.iml" filepath="$PROJECT_DIR$/Java_study_leetcode-csp.iml" />
     </modules>
   </component>
 </project>

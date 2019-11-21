@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="086c866d-2764-40b6-ac48-1d2e9715fb25" name="Default Changelist" comment="" />
+    <list default="true" id="086c866d-2764-40b6-ac48-1d2e9715fb25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_study_leetcode-csp.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +21,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TjckLclosi2hzNIvrDjViRqX4Z" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,7 +53,7 @@
   <component name="RunManager" selected="Application.csp_03">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSP_201909.Main" />
-      <module name="java_study" />
+      <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CSP_201909.*" />
@@ -55,7 +66,7 @@
     </configuration>
     <configuration name="csp_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSP_201909.csp_01" />
-      <module name="java_study" />
+      <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CSP_201909.*" />
@@ -68,7 +79,7 @@
     </configuration>
     <configuration name="csp_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSP_201909.csp_02" />
-      <module name="java_study" />
+      <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CSP_201909.*" />
@@ -81,7 +92,7 @@
     </configuration>
     <configuration name="csp_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSP_201909.csp_03" />
-      <module name="java_study" />
+      <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CSP_201909.*" />
@@ -94,7 +105,7 @@
     </configuration>
     <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSP_201909.demo" />
-      <module name="java_study" />
+      <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CSP_201909.*" />
@@ -134,10 +145,22 @@
       <workItem from="1574224574229" duration="16140000" />
       <workItem from="1574293314053" duration="781000" />
       <workItem from="1574298956592" duration="8343000" />
+      <workItem from="1574342280885" duration="377000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
