@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="086c866d-2764-40b6-ac48-1d2e9715fb25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1267.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/算法/算法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_study_leetcode-csp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_study_leetcode-csp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_study_leetcode-csp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSP_201909/csp_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSP_201909/csp_03.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java_study_leetcode-csp" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,14 +35,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/study/java/下载的jar/algs4.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,13 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.csp_03">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSP_201909.Main" />
+  <component name="RunManager" selected="Application.Solution_1268">
+    <configuration name="Solution_1265" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1265" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CSP_201909.*" />
+          <option name="PATTERN" value="周赛164.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="csp_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSP_201909.csp_01" />
+    <configuration name="Solution_1266" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1266" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CSP_201909.*" />
+          <option name="PATTERN" value="周赛164.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="csp_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSP_201909.csp_02" />
+    <configuration name="Solution_1267" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1267" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CSP_201909.*" />
+          <option name="PATTERN" value="周赛164.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_1268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1268" />
+      <module name="Java_study_leetcode-csp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="周赛164.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSP_201909.demo" />
-      <module name="Java_study_leetcode-csp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CSP_201909.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_1268" />
+        <item itemvalue="Application.Solution_1267" />
+        <item itemvalue="Application.Solution_1266" />
+        <item itemvalue="Application.Solution_1265" />
         <item itemvalue="Application.csp_03" />
-        <item itemvalue="Application.csp_02" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.csp_01" />
-        <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +154,10 @@
       <workItem from="1574224574229" duration="16140000" />
       <workItem from="1574293314053" duration="781000" />
       <workItem from="1574298956592" duration="8343000" />
-      <workItem from="1574342280885" duration="377000" />
+      <workItem from="1574342280885" duration="975000" />
+      <workItem from="1574387097184" duration="23111000" />
+      <workItem from="1574482926441" duration="15218000" />
+      <workItem from="1574559321241" duration="20155000" />
     </task>
     <servers />
   </component>
@@ -157,7 +169,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
