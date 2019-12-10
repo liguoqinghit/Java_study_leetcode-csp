@@ -3,6 +3,7 @@ package 周赛163;
 import java.util.List;
 
 public class Solution_1262 {
+
     public static int max(int a, int b) {
         return (a > b) ? a : b;
     }

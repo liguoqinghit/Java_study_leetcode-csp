@@ -1,5 +1,8 @@
 package CSP_201909;
 import java.util.Scanner;
+//参考网址
+//https://blog.csdn.net/weixin_45655522/article/details/102170274
+//https://blog.csdn.net/weixin_43074474/article/details/102243202
 public class csp_03 {
     private static boolean is_alpha(char a) {
         return (a >= 'a' && a <= 'z') || (a >= 'A' && a <= 'Z');

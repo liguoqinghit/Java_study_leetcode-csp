@@ -2,14 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="086c866d-2764-40b6-ac48-1d2e9715fb25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1265.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1266.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1267.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/周赛164/Solution_1268.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法/算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP_201403/csp_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP_201604/csp_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP_201909/csp_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study1/API_study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/LeetCode121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/LeetCode198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/LeetCode303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/LeetCode392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/LeetCode5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/LeetCode53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/LeetCode70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划_leetcode/介绍_LeetCode复制的.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛165/Solution_1275.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛165/Solution_1276.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛165/Solution_1277.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛165/Solution_1278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛166/Solution_1281.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛166/Solution_1282.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛166/Solution_1283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/周赛166/Solution_1284.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/拉勾/排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/拉勾/递归和回溯.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_study_leetcode-csp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_study_leetcode-csp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/CSP_201909/csp_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/CSP_201909/csp_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/周赛163/Solution_1262.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/周赛163/Solution_1262.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/周赛164/Solution_1267.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/周赛164/Solution_1267.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/周赛164/Solution_1268.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/周赛164/Solution_1268.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/算法/算法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_study_leetcode-csp/算法/算法.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CSP_201909/csp_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSP_201909/csp_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/周赛163/Solution_1262.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/周赛163/Solution_1262.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/周赛164/Solution_1267.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/周赛164/Solution_1267.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/周赛164/Solution_1268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/周赛164/Solution_1268.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/算法/算法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/算法/算法.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +85,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_1268">
-    <configuration name="Solution_1265" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1265" />
+  <component name="RunManager" selected="Application.排序">
+    <configuration name="排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="拉勾.排序" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛164.*" />
+          <option name="PATTERN" value="拉勾.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_1266" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1266" />
+    <configuration name="LeetCode303" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划_leetcode.LeetCode303" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛164.*" />
+          <option name="PATTERN" value="动态规划_leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_1267" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1267" />
+    <configuration name="LeetCode392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划_leetcode.LeetCode392" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛164.*" />
+          <option name="PATTERN" value="动态规划_leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_1268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="周赛164.Solution_1268" />
+    <configuration name="LeetCode53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划_leetcode.LeetCode53" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="周赛164.*" />
+          <option name="PATTERN" value="动态规划_leetcode.LeetCode121" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="csp_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSP_201909.csp_03" />
+    <configuration name="Solution_1283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛166.Solution_1283" />
       <module name="Java_study_leetcode-csp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CSP_201909.*" />
+          <option name="PATTERN" value="周赛166.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution_1268" />
-        <item itemvalue="Application.Solution_1267" />
-        <item itemvalue="Application.Solution_1266" />
-        <item itemvalue="Application.Solution_1265" />
-        <item itemvalue="Application.csp_03" />
+        <item itemvalue="Application.排序" />
+        <item itemvalue="Application.Solution_1283" />
+        <item itemvalue="Application.LeetCode392" />
+        <item itemvalue="Application.LeetCode303" />
+        <item itemvalue="Application.LeetCode53" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +183,21 @@
       <workItem from="1574342280885" duration="975000" />
       <workItem from="1574387097184" duration="23111000" />
       <workItem from="1574482926441" duration="15218000" />
-      <workItem from="1574559321241" duration="20155000" />
+      <workItem from="1574559321241" duration="27746000" />
+      <workItem from="1574644446752" duration="3321000" />
+      <workItem from="1574679247588" duration="46000" />
+      <workItem from="1574679506231" duration="4189000" />
+      <workItem from="1574779635949" duration="1142000" />
+      <workItem from="1574842284037" duration="6997000" />
+      <workItem from="1574938930243" duration="1126000" />
+      <workItem from="1574947109424" duration="2358000" />
+      <workItem from="1575167462546" duration="12051000" />
+      <workItem from="1575335187136" duration="106000" />
+      <workItem from="1575359955956" duration="4087000" />
+      <workItem from="1575684329196" duration="3116000" />
+      <workItem from="1575703404902" duration="9028000" />
+      <workItem from="1575766711481" duration="15572000" />
+      <workItem from="1575861427779" duration="17351000" />
     </task>
     <servers />
   </component>

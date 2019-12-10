@@ -28,7 +28,6 @@ public class 算法 {
     /**
      * 第二个
      * 二分查找
-     *
      * @param key
      * @param a
      * @return 查找到了返回位置，否则返回-1
@@ -37,27 +36,46 @@ public class 算法 {
         int lo = 0;
         int hi = a.length -1;
         while (lo <= hi) {
-        int mid = lo + ((hi - lo) / 2);
-        if (key < a[mid]) hi = mid - 1;
-        else if (key > a[mid]) lo = mid + 1;
-        else return mid;
-    }
+            int mid = lo + ((hi - lo) / 2);
+            if (key < a[mid]) hi = mid - 1;
+            else if (key > a[mid]) lo = mid + 1;
+            else return mid;
+        }
         return -1;
-}
+    }
+
+    /**
+     * 第三个
+     * 计算平方根（牛顿迭代法）
+     * @param c
+     * @return
+     */
+    public static double sqrt(double c) {
+        if (c < 0) return Double.NaN;
+        double err = 1e-15;
+        double t = c;
+        while (Math.abs(t - c/t) > err*t)
+            t = (c / t + t) / 2.0;
+        return t;
+    }
 
     public static void main(String[] args) {
 //        第一个
 //        System.out.println(gcd2(30, 50));
 //        第二个
-        Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
-        String[] arr = str.split(" ");
-        int[] whitelist = new int[arr.length];
-        for (int i = 0; i < whitelist.length; i++) {
-            whitelist[i] = Integer.parseInt(arr[i]);
-        }
-        Arrays.sort(whitelist);
-        int key = sc.nextInt();
-        System.out.println(rank(key, whitelist));
+//        Scanner sc = new Scanner(System.in);
+//        String str = sc.nextLine();
+//        String[] arr = str.split(" ");
+//        int[] whitelist = new int[arr.length];
+//        for (int i = 0; i < whitelist.length; i++) {
+//            whitelist[i] = Integer.parseInt(arr[i]);
+//        }
+//        Arrays.sort(whitelist);
+//        int key = sc.nextInt();
+//        System.out.println(rank(key, whitelist));
+//        第三个
+        int a = 4;
+        System.out.println(Math.sqrt(a));
+        System.out.println(sqrt(a));
     }
 }
