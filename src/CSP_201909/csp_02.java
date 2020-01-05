@@ -15,7 +15,7 @@ public class csp_02 {
                 if (temp > 0 && minn > temp) {
                     fruit[i] = true;
                     minn = temp;
-                }else if (temp <= 0) {
+                } else if (temp <= 0) {
                     minn += temp;
                 }
             }
